@@ -1,6 +1,3 @@
-👋 Hi, I’m @Nuke0215
-
-
 1. Thou shalt not sunder Dev from Ops.
 2. Thou shalt automate whatsoever may be automated.
 3. Thou shalt monitor thy systems by day and by night.
@@ -12,6 +9,8 @@
 9. Thou shalt revere thy logs and thy metrics.
 10. Thou shalt uphold a culture of sharing and of learning.
 
+YAML Jesus
+ 
 
 <!---
 Nuke0215/Nuke0215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

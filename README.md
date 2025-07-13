@@ -1,15 +1,15 @@
-> 1. Thou shalt not sunder Dev from Ops
-> 2. Thou shalt automate whatsoever may be automated.
-> 3. Thou shalt monitor thy systems by day and by night. 
-> 4. Thou shalt version thine infrastructure as thou dost thy code. 
-> 5. Thou shalt deploy continually, yet with prudence and reverence. 
-> 6. Thou shalt not fear failure, but learn therefrom. 
-> 7. Thou shalt commit no code untested, nor shun Continuous Integration. 
-> 8. Thou shalt sanctify security from the beginning thereof. 
-> 9. Thou shalt revere thy logs and thy metrics. 
-> 10. Thou shalt uphold a culture of sharing and of learning. 
+1. Thou shalt not sunder Dev from Ops
+2. Thou shalt automate whatsoever may be automated.
+3. Thou shalt monitor thy systems by day and by night. 
+4. Thou shalt version thine infrastructure as thou dost thy code. 
+5. Thou shalt deploy continually, yet with prudence and reverence. 
+6. Thou shalt not fear failure, but learn therefrom. 
+7. Thou shalt commit no code untested, nor shun Continuous Integration. 
+8. Thou shalt sanctify security from the beginning thereof. 
+9. Thou shalt revere thy logs and thy metrics. 
+10. Thou shalt uphold a culture of sharing and of learning. 
 
-*YAML Jesus*
+> *YAML Jesus*
 
  
 
